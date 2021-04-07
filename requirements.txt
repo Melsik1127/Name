@@ -1,7 +1,7 @@
 altgraph==0.17
 beautifulsoup4==4.8.2
 blessings==1.7
-bottle==0.12.18
+bottle==0.12.19
 bottle-websocket==0.2.9
 bpython==0.18
 certifi==2019.11.28
